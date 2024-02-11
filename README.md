@@ -16,3 +16,5 @@
 ## Куристикус
 ![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=maksim990&theme=dark&show_icons=true)
 ![Верхние языки](https://github-readme-stats.vercel.app/api/top-langs/?username=maksim990&theme=dark&layout=compact)
+[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
